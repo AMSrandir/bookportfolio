@@ -89,9 +89,9 @@ body {
 }
 
 .image001{
-  background-image: url('/images/001.jpg');
+  background-image: url('images/001.jpg');
 }
 
 .image002{
-  background-image: url('/images/002.jpg');
+  background-image: url('images/002.jpg');
 }
