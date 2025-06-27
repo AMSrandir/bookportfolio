@@ -89,9 +89,9 @@ body {
 }
 
 .image001{
-  background-image: url('https://amsrandir.github.io/bookportfolio/images/001.jpg');
+  background-image: url('/src/images/001.jpg');
 }
 
 .image002{
-  background-image: url('https://amsrandir.github.io/bookportfolio/images/002.jpg');
+  background-image: url('/src/images/002.jpg');
 }
